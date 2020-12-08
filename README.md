@@ -1,8 +1,8 @@
 ## Project title
-Editable Resume -- a fullstack resume
+Editable Resume
 
 ## Motivation
-Inspired by to do list app, I decide to create an resume version that one can easily add, delete your bulletpoints. You can choose your font weight and where to add. It finally comes out as a full stack version by adding a backend api with express and mongoDB.
+Inspired by to do list, the resume is a try to integrate backend customzied data schema to front end.
 
 ## Code style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
