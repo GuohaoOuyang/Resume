@@ -2,7 +2,7 @@
 Editable Resume
 
 ## Motivation
-Inspired by to do list, the resume is a try to integrate backend customzied data schema to front end.
+Inspired by to do list, the resume is a try to play with rest api endpoints. 
 
 ## Code style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
