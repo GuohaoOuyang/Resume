@@ -1,7 +1,8 @@
 ## Resume
-![screenshot2](/client/src/components/bgImages/screenshot2.png?raw=true "Optional Title")
 
 >Inspired by to do list, the resume is a try to play with rest api endpoints. 
+
+![screenshot2](/client/src/components/bgImages/screenshot2.png?raw=true "Optional Title")
  
 ## Tech/framework used
 - [React](https://reactjs.org/)
